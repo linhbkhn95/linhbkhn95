@@ -11,7 +11,7 @@ I'm Linh 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-
 - 🌱 I’m currently using <strong>Golang</strong> and <strong>Google Cloud</strong>
 - 🤔 My research interests are with <strong>Distributed Systems, Ecommerce system</strong>, etc
 - 🔍 I’m looking for opportunities to contribute to Open Source projects
-- 💬 Feel free to discuss with me about <strong>Skill Engineering, Leader Engineering</strong>
+- 💬 Feel free to discuss with me about <strong>Skill Engineering</strong>
 - 👀 See my [Personal Portfolio](https://www.facebook.com/linhbkhn95) to get more info
 
 ### Stats Overview : :cyclone:
