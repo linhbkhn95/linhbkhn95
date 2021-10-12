@@ -6,7 +6,6 @@ I'm Linh 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-
 
 ### Current Status Quo:
 
-- 💼 I’m pursuing a <strong>MSc Computing degree in Management and Finance</strong>.
 - 🔭 I’m currently working on <strong>Teko Company</strong> that build ecommerce system https://vnshop.vn
 - 🌱 I’m currently using <strong>Golang</strong> and <strong>Google Cloud</strong>
 - 🤔 My research interests are with <strong>Distributed Systems, Ecommerce system</strong>, etc
