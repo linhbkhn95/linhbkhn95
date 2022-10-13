@@ -6,16 +6,26 @@ I'm Linh 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-
 
 ### Current Status Quo:
 
-- 🔭 I’m currently working on <strong>Teko Company</strong> that build ecommerce system https://vnshop.vn
 - 🌱 I’m currently using <strong>Golang</strong> and <strong>Google Cloud</strong>
 - 🤔 My research interests are with <strong>Distributed Systems, Ecommerce system</strong>, etc
 - 🔍 I’m looking for opportunities to contribute to Open Source projects
 - 💬 Feel free to discuss with me about <strong>Skill of Engineering</strong>
-- 👀 See my [Personal Portfolio](https://www.facebook.com/linhbkhn95) to get more info
+
+### 👀 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/linh-kevin-bb053a118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin" height="30" width="40" /></a>
+<a href="https://dev.to/linhbkhn95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imcvampire" height="30" width="40" /></a>
+<a href="https://leetcode.com/bao_linh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imcvampire" height="30" width="40" /></a>
+</p>
 
 ### Stats Overview : :cyclone:
+
+
+### 🏆 Trophy:
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=linhbkhn95&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=linhbkhn95&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=billpwchan&theme=dracula&no-bg=true&row=1"/>
 
 
 ### GitHub Highlights: :blossom:
@@ -26,6 +36,9 @@ I'm Linh 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=linhbkhn95&theme=material-palenight"/>
 </a>
 
+### 📛 Badges:
+---
+[![@linbkhn95's Holopin board](https://holopin.io/api/user/board?user=linhbkhn95)](https://holopin.io/@linhbkhn95)
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=linhbkhn95&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
