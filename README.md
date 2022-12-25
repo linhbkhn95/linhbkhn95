@@ -39,9 +39,6 @@ I'm Linh 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-
 ### 📛 Badges:
 ---
 [![@linbkhn95's Holopin board](https://holopin.io/api/user/board?user=linhbkhn95)](https://holopin.io/@linhbkhn95)
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=linhbkhn95&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
 
 -----
 Credits: [linhbkhn95](https://github.com/linhbkhn95)
