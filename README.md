@@ -2,14 +2,14 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Kevin 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-source profession and mostly develop in fullstack javascript and Backend with Golang 🐍.
+I'm Kevin 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open-source profession and mostly develop in Backend with Golang 🐍.
 
 ### Current Status Quo:
 
 - 🌱 I’m currently using <strong>Golang</strong> and <strong>Google Cloud</strong>
 - 🤔 My research interests are with <strong>Distributed Systems, Ecommerce system</strong>, etc
 - 🔍 I’m looking for opportunities to contribute to Open Source projects
-- 💬 Feel free to discuss with me about <strong>Skill of Engineering</strong>
+- 💬 Feel free to discuss with me about <strong>Skills of Engineering</strong>
 
 ### 👀 Connect with me:
 <p align="left">
