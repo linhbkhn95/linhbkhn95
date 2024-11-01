@@ -38,7 +38,7 @@ I'm Kevin 😉, technology consultant 👨🏻‍💻 from Viet Nam. I'm an open
 
 ### 📛 Badges:
 ---
-[![@linbkhn95's Holopin board](https://holopin.io/api/user/board?user=linhbkhn95)](https://holopin.io/@linhbkhn95)
+[![An image of @linhbkhn95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/linhbkhn95)](https://holopin.io/@linhbkhn95)
 
 -----
 Credits: [linhbkhn95](https://github.com/linhbkhn95)
